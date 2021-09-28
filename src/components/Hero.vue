@@ -13,7 +13,7 @@ export default {
 </script>
 <style scoped>
 div img{
-    max-width:400px ;
+    max-width:600px ;
 }
  
 </style>
